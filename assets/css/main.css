@@ -2579,11 +2579,11 @@
 				}
 
 				.wrapper.style3 .icon.major:before {
-					color: #b74e91;
+					color: #008CFF;
 				}
 
 				.wrapper.style3-alt .icon.major:before {
-					color: #953d75;
+					color: #008CFF;
 				}
 
 /* Image */
@@ -3270,11 +3270,11 @@
 		}
 
 		.wrapper.style3 {
-			background-color: #b74e91;
+			background-color: #FF9B00;
 		}
 
 		.wrapper.style3-alt {
-			background-color: #953d75;
+			background-color: #FF9B00;
 		}
 
 		.wrapper.fullscreen {
@@ -3537,7 +3537,7 @@
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: #312450;
+		background: #0000;
 		cursor: default;
 		height: 100vh;
 		left: 0;
