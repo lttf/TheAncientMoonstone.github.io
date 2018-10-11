@@ -17,6 +17,10 @@
 		vertical-align: baseline;
 	}
 
+	p {
+		opacity: 0.8;
+	}
+
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
 	}
@@ -27,6 +31,7 @@
 
 	ol, ul {
 		list-style: none;
+		opacity: 0.8;
 	}
 
 	blockquote, q {
